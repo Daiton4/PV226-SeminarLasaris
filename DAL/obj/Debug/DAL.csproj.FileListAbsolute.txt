@@ -1,0 +1,10 @@
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\bin\Debug\DAL.exe.config
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\bin\Debug\DAL.exe
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\bin\Debug\DAL.pdb
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\bin\Debug\EntityFramework.dll
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\bin\Debug\EntityFramework.xml
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\obj\Debug\DAL.exe
+c:\users\martin\documents\visual studio 2017\Projects\DAL\DAL\obj\Debug\DAL.pdb
